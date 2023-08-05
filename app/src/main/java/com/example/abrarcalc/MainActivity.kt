@@ -73,6 +73,7 @@ class MainActivity : AppCompatActivity() {
                         "/" -> result /= numbers[i]
                     }
                 }
+                
                 tvInput?.text = result.toString()
 
 
