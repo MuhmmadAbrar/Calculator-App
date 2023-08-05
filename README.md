@@ -15,8 +15,8 @@ The Calculator App is a simple and user-friendly calculator designed for Android
 
 ## Screenshots
 
-![Screenshot 1]("./Screenshots/Screenshot_20230805_095219.png")
-![Screenshot 2]("./Screenshots/Screenshot_20230805_090659.png")
+![Screenshot 1]("/Screenshots/Screenshot_20230805_095219.png")
+![Screenshot 2]("/Screenshots/Screenshot_20230805_090659.png")
 
 ## Installation
 
