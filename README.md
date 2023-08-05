@@ -45,11 +45,7 @@ The Calculator App is a simple and user-friendly calculator designed for Android
 
 ## Feedback
 
-We welcome your feedback and suggestions for improvements. Please feel free to [open an issue](link_to_issues) if you encounter any bugs or have ideas for new features.
-
-## License
-
-The Calculator App is open-source and licensed under the [MIT License](link_to_license).
+We welcome your feedback and suggestions for improvements. Please feel free to [open an issue](https://github.com/MuhmmadAbrar/Calculator-App/issues) if you encounter any bugs or have ideas for new features.
 
 ## Acknowledgments
 
