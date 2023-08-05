@@ -1,7 +1,5 @@
 # Calculator App
 
-![Calculator App Logo](link_to_logo.png)
-
 ## Description
 
 The Calculator App is a simple and user-friendly calculator designed for Android devices. It allows users to perform basic arithmetic calculations quickly and efficiently.
@@ -15,12 +13,25 @@ The Calculator App is a simple and user-friendly calculator designed for Android
 
 ## Screenshots
 
-![Screenshot 1](/Screenshots/Screenshot_20230805_095219.png)
-![Screenshot 2](/Screenshots/Screenshot_20230805_090659.png)
+<table>
+  <tr>
+    <td align="center">
+      <img src="/Screenshots/Screenshot_20230805_095219.png" width="200" alt="Screenshot 1">
+      <br>
+      Screenshot 1
+    </td>
+    <td align="center">
+      <img src="/Screenshots/Screenshot_20230805_090659.png" width="200" alt="Screenshot 2">
+      <br>
+      Screenshot 2
+    </td>
+  </tr>
+</table>
+
 
 ## Installation
 
-1. Download the APK file from the [Releases](link_to_releases) section.
+1. Download the APK file from the [Releases](/releases) section.
 2. Transfer the APK file to your Android device.
 3. Enable "Unknown Sources" in your device settings to allow installation from sources other than the Play Store.
 4. Tap the APK file on your device to install the app.
@@ -43,9 +54,8 @@ The Calculator App is open-source and licensed under the [MIT License](link_to_l
 ## Acknowledgments
 
 - Thanks to the Android community for providing valuable resources and libraries.
-- The calculator icons used in this app are from [Iconfinder](https://www.iconfinder.com/).
 
 ## Contact
 
-For any questions or inquiries, you can reach us at [your.email@example.com](mailto:your.email@example.com).
+For any questions or inquiries, you can reach us at [muhmmadabrar@gmail.com](mailto:muhmmadabrar@gmail.com).
 
